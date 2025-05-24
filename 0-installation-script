@@ -6,3 +6,4 @@ npm install sass@1.69.5
 
 # Verified Sass installation
 npx sass --version
+
