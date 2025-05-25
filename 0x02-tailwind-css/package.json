@@ -8,12 +8,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "tailwindcss": "^3.4.17"
   },
   "dependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3"
-  }
+  },
+  "description": ""
 }

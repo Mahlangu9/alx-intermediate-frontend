@@ -1,9 +1,0 @@
-# Installed Node.js from https://nodejs.org/en/download
-# Verified installation using: node -v and npm -v
-
-# Installed Dart Sass version 1.69.5 using npm
-npm install sass@1.69.5
-
-# Verified Sass installation
-npx sass --version
-
